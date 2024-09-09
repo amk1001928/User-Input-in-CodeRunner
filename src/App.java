@@ -5,5 +5,9 @@ public class App {
         String name = "Peter";
         System.out.println("Your name is "+name);
     
+        System.out.println("What is your age");
+
+        int age = 18;
+        System.out.println("Your name is "+age);
     }
 }
